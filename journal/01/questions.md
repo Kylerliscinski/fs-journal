@@ -1,6 +1,6 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > It isa way to keep code in good order...
+    > It is way to keep code in good order...
 
 02. In the terminal, what is the command `mkdir` used for?
     > | ANSWER HERE |
