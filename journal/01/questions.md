@@ -34,7 +34,7 @@
     > Yes, for me personally, I work better once I have a template. I think that if you use a wireframe it can help ensure that you are not forgetting anything, you have the aspects of your website that want to be included. 
 
 10. Define the display `:flex property:`
-    > flex allows you to grow and shrink a container in your website as the user makes their window larger or smaller. 
+    > flex allows you to fit your containers to how you want them on your webpage.  
 
 11. What `CSS` properties affect the size of a box model?
-    > 
+    > You can use padding, margins and other like commands
