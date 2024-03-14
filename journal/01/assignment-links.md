@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://kylerliscinski.github.io/coolsite/)**
-* **[Repo](https://kylerliscinski.github.io/clonesite/)**
+* **[Lab1](https://kylerliscinski.github.io/coolsite/)**
+* **[Lab2](https://kylerliscinski.github.io/clonesite/)**
 * **[Repo](https://github.com/Kylerliscinski/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/Kylerliscinski/<ASSIGNMENT_REPO>)**
