@@ -2,5 +2,5 @@
 
 * **[Lab1](https://kylerliscinski.github.io/coolsite/)**
 * **[Lab2](https://kylerliscinski.github.io/clonesite/)**
-* **[Repo](https://github.com/Kylerliscinski/<ASSIGNMENT_REPO>)**
+* **[Lab3][(https://github.com/Kylerliscinski/<ASSIGNMENT_REPO>](https://kylerliscinski.github.io/knightstudios/)**
 * **[Repo](https://github.com/Kylerliscinski/<ASSIGNMENT_REPO>)**
