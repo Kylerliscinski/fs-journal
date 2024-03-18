@@ -1,11 +1,11 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > Let, Const, and Var. Var was the original command. Let & Const were added more recently to help fix some of the issues with var. 
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > Functions are designed to do one particular task. They are used to return values.
 
 03. What are the `SOLID` principles?
 
