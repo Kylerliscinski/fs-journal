@@ -29,12 +29,12 @@
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > The controller is responsible for the user inputs. It will supply buttons, or anything that the user would use.
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > The service takes in the inputs from the controller and does something with them. This will be where you create functions that your controller draws from.
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > The model is the blueprint for the websites data. This is where you will create stuff like what an object looks like, eg. "what does a snack have" - name, price, img, etc.
