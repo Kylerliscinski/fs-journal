@@ -2,5 +2,5 @@
 
 * **[Lab1](https://kylerliscinski.github.io/burgerShack/)**
 * **[Lab2](https://kylerliscinski.github.io/gregslistNode/)**
-* **[Repo](https://github.com/Kylerliscinski/<ASSIGNMENT_REPO>)**
+* **[Lab3](https://kylerliscinski.github.io/REST/)**
 * **[Repo](https://github.com/Kylerliscinski/<ASSIGNMENT_REPO>)**
