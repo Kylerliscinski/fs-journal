@@ -26,12 +26,12 @@
 
 7. Which Vue attributes(directives) could you use to conditionally render elements on a page?
 
-  > | ANSWER HERE |
+  > v-for, v-if, v-else
 
 8. What is the purpose of the `key` attribute when using `v-for` on an element?
 
-  > | ANSWER HERE |
+  > It is there to tell set a distinct property of an object, like an "id"
 
 9. What is the `<slot>` element and what is it used for?
 
-  > | ANSWER HERE |
+  > With slot you are able to define a section of a components template that acan then be replaced by the parent component.
