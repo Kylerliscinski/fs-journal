@@ -5,11 +5,11 @@
 
 02. What is the difference between a `class` and an `interface`?
 
-  > 
+  > A class describes the behavior of objects. The interface carries out the behaviors.
 
 03. What is the method that returns an instance of a class, yet it has no return type?
 
-  > | ANSWER HERE |
+  > Void
 
 05. In the Car example what is the access modifier of the `Start()` method?
 
@@ -61,4 +61,4 @@
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > Yes, you need to join the two methods. You can join "accounts" with "cars".
