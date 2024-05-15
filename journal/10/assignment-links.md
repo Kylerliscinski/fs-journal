@@ -1,5 +1,5 @@
 ## Afternoon Assignment Links
 
 * **[Lab1](https://github.com/Kylerliscinski/ChoreScore)**
-* **[Repo](https://github.com/Kylerliscinski/<ASSIGNMENT_REPO>)**
+* **[Lab2](https://github.com/Kylerliscinski/GregslistCSharp)**
 * **[Repo](https://github.com/Kylerliscinski/<ASSIGNMENT_REPO>)**
